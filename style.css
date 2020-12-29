@@ -10,8 +10,9 @@ body {
 
 #profile-container{
     max-width: 721px;
+    margin: 80px;
     background-color: white;
-    border: 10px solid black;
+    border: 1px solid gray;
     border-radius: 6px;
 }
 
